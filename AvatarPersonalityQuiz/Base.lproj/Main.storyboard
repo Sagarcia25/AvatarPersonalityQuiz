@@ -79,9 +79,11 @@
                             <constraint firstItem="9IQ-Xc-ET0" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="1qH-DR-2gc"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Tn8-XI-miu" secondAttribute="trailing" constant="20" id="6aY-9Q-Fmd"/>
                             <constraint firstItem="9IQ-Xc-ET0" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="FQa-xA-ZTX"/>
+                            <constraint firstItem="Tn8-XI-miu" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="9IQ-Xc-ET0" secondAttribute="trailing" id="RDM-qy-Zm4"/>
                             <constraint firstItem="QyA-Me-8IV" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="TJh-vL-ueU"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="uTG-Bn-SFP" secondAttribute="trailing" constant="20" id="Uga-x3-yuD"/>
                             <constraint firstItem="uTG-Bn-SFP" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="V6j-0V-hgI"/>
+                            <constraint firstItem="uTG-Bn-SFP" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="8wY-Im-XbY" secondAttribute="trailing" id="Xu0-I2-OZ2"/>
                             <constraint firstItem="8wY-Im-XbY" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="lTA-fv-Qzj"/>
                             <constraint firstItem="Tn8-XI-miu" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="lYn-Ns-yKl"/>
                             <constraint firstItem="8wY-Im-XbY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="q9n-69-aI7"/>
